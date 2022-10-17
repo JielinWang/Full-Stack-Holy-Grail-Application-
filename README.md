@@ -1,1 +1,1 @@
-# Full-Stack-Holy-Grail-Application-
+# FullStack Holy-Grail Application
